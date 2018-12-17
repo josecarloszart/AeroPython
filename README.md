@@ -1,3 +1,4 @@
+﻿Jose Carlos Zart
 
 ## Classical Aerodynamics with Python
 
